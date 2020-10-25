@@ -1,4 +1,4 @@
-# Sending Calendar invite by Email with Javam
+# Sending Calendar invite by Email with Java
 This project code accompanies a blog found at 
 
 https://andrew-flower.com/blog/202010-send-calendar-events-java
